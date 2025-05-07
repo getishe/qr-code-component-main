@@ -92,22 +92,3 @@ section {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-/* 
-@media (max-width: 768px) {
-  .card h1 {
-    font-size: 12px;
-    padding: 10px;
-  }
-  .card p {
-    font-size: 10px;
-    padding: 0 10px;
-  }
-}
-@media (max-width: 480px) {
-  section {
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    height: 95vh;
-  }
-} */
