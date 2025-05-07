@@ -9,6 +9,11 @@ body {
   font-family: Roboto Mono, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: hsl(218, 44%, 22%);
+}
+
 section {
   display: grid;
   justify-content: center;
