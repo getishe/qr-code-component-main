@@ -28,8 +28,8 @@ The QR code component is designed to be simple and clean, with a focus on usabil
 
 ### Links
 
-- [Live Site](https://yourusername.github.io/qr-code-component-main/)
-- [GitHub Repository](https://github.com/yourusername/qr-code-component-main)
+- [Live Site](https://getishe.github.io/qr-code-component-main/)
+- [GitHub Repository](https://github.com/getishe/qr-code-component-main.git)
 
 ## My process
 
